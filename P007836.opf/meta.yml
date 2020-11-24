@@ -3,5 +3,32 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W2DB4611
   title: ཐུགས་ཆེན་ཀུན་འདུས།
-  volume: ''
+  volume:
+    a047d0dd40e74749aaa4e31fcb92cb63:
+      image_group_id: I1KG11681
+      title: Volume 1 of thugs chen kun 'dus
+      volume_number: 1
+      total_pages: 657
+    6ef5094840684de4b5bccdb02de63a36:
+      image_group_id: I1KG11682
+      title: Volume 2 of thugs chen kun 'dus
+      volume_number: 2
+      total_pages: 648
+    cf3b8f06755f4eab851efdc85548e47f:
+      image_group_id: I1KG11683
+      title: Volume 3 of thugs chen kun 'dus
+      volume_number: 3
+      total_pages: 686
+    0eee1e59362948a0bd547a1280fc626a:
+      image_group_id: I1KG11684
+      title: Volume 4 of thugs chen kun 'dus
+      volume_number: 4
+      total_pages: 634
   author: ''
+ebook_metadata:
+  title: ཐུགས་ཆེན་ཀུན་འདུས།
+  author: ''
+  sku: P007836
+  cover: cover.jpg
+  layers:
+  - pagination
