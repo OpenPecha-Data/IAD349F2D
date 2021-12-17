@@ -1,7 +1,7 @@
 id: P007836
 initial_creation_type: ocr
 created_at: 21/03/2020
-last_modified_at: 25/11/2021
+last_modified_at: 2021-12-17 12:44:07.275594
 source_metadata:
   id: bdr:W2DB4611
   title: ཐུགས་ཆེན་ཀུན་འདུས།
@@ -31,3 +31,5 @@ source_metadata:
       volume_number: 4
       total_pages: 634
       base_file: v004.txt
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
